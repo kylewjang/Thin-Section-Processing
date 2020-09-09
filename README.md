@@ -2,7 +2,7 @@
 
 This script takes any colour image as an input, so both PPL and XPL views should work. 
 
-Above is the original Pycharm script (.py) and the Jupyter Notebook (.ipynb)
+Above is the original script created on Pycharm (.py) and the Jupyter Notebook (.ipynb)
 
 A thin section of Andesite found on Google images was used as an example. 
 
