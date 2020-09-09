@@ -10,6 +10,6 @@ Method 1: Phases - explain
 
 Method 2: Using the raw filtered data - explain
 
-Please note that the methods I used are not perfect. I am aware that colour alone is not sufficient for mineral identification, but it can be a distinctive feature. The main purpose of this project was to find the percentage of the image occupied by the mineral selected by the user, not neccesarily to return the precise number of distinct minerals in the image.
+Please note that the methods I used are not perfect. I am aware that colour alone is not sufficient for mineral identification, but it can be a distinctive feature. The main purpose of this project was to find a reasonably accurate percentage of the image occupied by the mineral selected by the user, not neccesarily to return the precise number of distinct minerals in the image.
 
 Feel free to use these resources in any way you'd like!
