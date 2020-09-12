@@ -1,4 +1,4 @@
-# Thin-Section-Manipulation
+# Thin-Section-Processing
 
 This script takes any colour image as an input, so both PPL and XPL views should work. 
 
