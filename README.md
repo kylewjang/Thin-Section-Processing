@@ -1,5 +1,7 @@
 # Thin-Section-Processing-WIP
 
+Eyeballing mineral modes can be difficult sometimes, especially when there are many different minerals in a thin section, and I wanted to try to make it easier.
+
 This script takes any colour image as an input, so both PPL and XPL views should work.
 
 Above are the original scripts created on Pycharm (.py) and the Jupyter Notebooks (.ipynb)
