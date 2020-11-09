@@ -1,6 +1,6 @@
-# Thin-Section-Processing
+# Thin-Section-Processing-WIP
 
-This script takes any colour image as an input, so both PPL and XPL views should work. 
+This script takes any colour image as an input, so both PPL and XPL views should work.
 
 Above are the original scripts created on Pycharm (.py) and the Jupyter Notebooks (.ipynb)
 
@@ -10,7 +10,7 @@ Method 1: Phases - Created a new image by allocating different values correspond
 
 Method 2: Using the unphased filtered data
 
-The accuracy of the methods is fairly good, and each method has its perks. However, there is likely a more accurate method that I couldn't seem to come up with within the limited time I had. 
+The accuracy of the methods is decent, and each method has its perks. However, there is likely a more accurate method that I couldn't seem to come up with within the limited time I had. 
 
 Please note that the logic behind this project is not perfect. I am aware that colour alone is not sufficient for mineral identification, but it can be a distinctive feature. The main purpose of this project was to find a reasonably accurate mineral modes in an image, not neccesarily to return the precise number of distinct minerals in the image.
 
